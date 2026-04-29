@@ -69,3 +69,9 @@
 
 ### 🎮 Fun Zone
 > "Coding is like gaming — every bug is a boss fight, and I never quit 😎🔥"
+
+---
+
+<p align="right">
+  <img src="https://media1.tenor.com/m/crh_wfrn-9cAAAAC/marvel-pixel-iron-man-captain-america-civil-war.gif" width="700">
+</p>

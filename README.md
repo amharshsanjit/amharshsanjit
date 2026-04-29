@@ -1,41 +1,38 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">🤖 Harsh Sanjit</h1>
 
 <p align="center">
-  Aspiring Software Developer | AI Enthusiast
+  AI • Machine Learning • Future Tech
 </p>
 
 ---
 
-### 👨‍💻 Profile Summary
-Motivated Computer Science student with knowledge of Java, Python, and C.  
-Interested in AI, cybersecurity, and building efficient solutions.
+### 🚀 About Me
+- 🧠 Passionate about Artificial Intelligence  
+- 💡 Love solving real-world problems  
+- 📚 Currently learning ML & Deep Learning  
+- 🌐 Interested in Cloud + Security  
 
 ---
 
-### 🧑‍💻 Skills
-- Programming: Java, Python, C  
-- Concepts: Data Structures, Basics of AI  
-- Tools: Git, VS Code  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amharshsanjit&show_icons=true">
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,github,vscode" />
 </p>
 
 ---
 
-### 📌 Projects
-- 🔹 Air Drawing AI (Computer Vision Project)  
-- 🔹 More coming soon...  
+### 📈 Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amharshsanjit&theme=radical">
+</p>
 
 ---
 
-### 📫 Contact
-- Email: your-email@gmail.com  
+### 🌐 Connect With Me
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: add later  
 
 ---
 
-### 🎯 Goal
-To secure an internship and grow as a developer.
+### ⚡ Quote
+> “Building intelligence, one line of code at a time.”

@@ -72,7 +72,7 @@
 
 ---
 <p align="left">
-  <img src="https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif" width="70">
+  <img src="https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif" width="200">
 </p>
 
 <p align="right">

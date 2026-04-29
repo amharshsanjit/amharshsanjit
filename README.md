@@ -43,17 +43,14 @@
 ---
 
 ### 🧠 Currently Learning
+- ✨ Artificial Intelligence
 - 🤖 Machine Learning  
 - 🔐 Cybersecurity Basics  
-- ☁️ Cloud Computing  
+- ☁️ Cloud Computing
+- 🧩 Exploring IoT
 
 ---
 
-### 🚀 Projects
-- 🎨 Air Drawing AI (Computer Vision Project)  
-- 🔜 More exciting projects coming soon...  
-
----
 
 ### 🌐 Connect With Me
 <p align="center">

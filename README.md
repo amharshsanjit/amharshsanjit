@@ -7,8 +7,7 @@
 ---
 
 <p align="center">
-  <img src="![Uploading tenor.gif…]()
-" width="700">
+  <img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif" width="700">
 </p>
 
 ---

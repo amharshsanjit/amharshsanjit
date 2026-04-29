@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Hey, I'm Harsh 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Enthusiast;Cybersecurity+Learner;Code+%2B+Creativity&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Enthusiast;AI+&+ML;Code+%2B+Creativity&center=true&width=500&height=50">
 </p>
 
 <p align="center">

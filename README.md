@@ -71,6 +71,9 @@
 > "Coding is like gaming — every bug is a boss fight, and I never quit 😎🔥"
 
 ---
+<p align="left">
+  <img src="https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif" width="70">
+</p>
 
 <p align="right">
   <img src="https://media1.tenor.com/m/crh_wfrn-9cAAAAC/marvel-pixel-iron-man-captain-america-civil-war.gif" width="70">

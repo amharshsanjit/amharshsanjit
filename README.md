@@ -24,6 +24,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,github,vscode" />
 </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
 
 ---
 

@@ -21,8 +21,9 @@
 ---
 
 ### ⚡ Tech Stack
+### ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,sql,docker,linux,github,vscode" />
 </p>
 
 ---

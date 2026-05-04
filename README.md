@@ -49,6 +49,12 @@
 - ☁️ Cloud Computing
 - 🧩 Exploring IoT
 
+  ---
+
+### 🌐Connect with me 
+
+<p align="center"> <a href="mailto:harshsanjitofficial@gmail.com"> <img src="https://img.shields.io/badge/Email-harshsanjitofficial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/harsh_sanjit.cse"> <img src="https://img.shields.io/badge/Instagram-@harsh__sanjit.cse-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/harshsanjit"> <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Sanjit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+
 
 ---
 

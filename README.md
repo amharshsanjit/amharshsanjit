@@ -49,18 +49,6 @@
 - ☁️ Cloud Computing
 - 🧩 Exploring IoT
 
----
-
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="harshsanjit18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="www.linkedin.com/in/harshsanjit">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
 
 ---
 
